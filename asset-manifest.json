@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My_Crypto_Github/static/css/main.08bc44f7.css",
+    "main.js": "/My_Crypto_Github/static/js/main.6009ab14.js",
+    "index.html": "/My_Crypto_Github/index.html",
+    "main.08bc44f7.css.map": "/My_Crypto_Github/static/css/main.08bc44f7.css.map",
+    "main.6009ab14.js.map": "/My_Crypto_Github/static/js/main.6009ab14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08bc44f7.css",
+    "static/js/main.6009ab14.js"
+  ]
+}
